@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternshipProgram</string>
+    <string name="digilocker">Set your 6 digit PIN for 2-factor authentication to your Digilocker Account</string>
+</resources>
